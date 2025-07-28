@@ -7,3 +7,5 @@
 **langgraph.ipynb** and **crewai.ipynb** : AI Agent uses **Amazon Nova Premier** with AI candidate screening use case. Data : Always Winner CV and Sonny Wawwak CV
 
 *NOTE* : Make sure you already enable Amazon Nova model in Amazon Bedrock console.
+
+For crewai.ipynb, you can see this notebook : https://nbviewer.org/github/budionosan/amazon-bedrock-rag-and-ai-agent/blob/main/crewai.ipynb
